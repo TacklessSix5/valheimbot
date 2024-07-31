@@ -1,0 +1,15 @@
+Valheim Discord Bot
+
+Features:
+- Check for Server Status(Online/Offline) and post it in a Statistics based Channel.
+- Get a Dictionary for Admins ONLY that show all steamID's and the playername(s) registered to that steamID.
+- Have Discord members verify their steamID and have the bot match their discordID and steamID together.
+- Active Player Count and post it in a Statistic based Channel.
+- Build a Valheim Chat, post live chat from the Valheim Server into a Chat Channel.
+
+URLS:
+Buffer Logs: https://coffeeheim.sergio.run/logs?f=buffer
+       Logs: https://coffeeheim.sergio.run/logs
+       Docs: https://coffeeheim.sergio.run/docs
+    Players: https://coffeeheim.sergio.run/players
+     Status: https://coffeeheim.sergio.run/status
